@@ -13,6 +13,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "blueprint-css": "^3.0.0-beta.0",
+    "rollup-plugin-css-only": "^2.0.0",
     "sirv-cli": "^0.4.4"
   },
   "scripts": {
