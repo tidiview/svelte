@@ -37,7 +37,7 @@ export default {
 
     // Watch the `public` directory and refresh the
     // browser on changes when not in production
-    !production && livereload('public'),
+    !production && livereload('public/build'),
 
     // If we're building for production (npm run build
     // instead of npm run dev), minify
